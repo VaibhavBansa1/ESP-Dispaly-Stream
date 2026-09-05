@@ -5,9 +5,9 @@ This project has two Arduino sketches, and both require your WiFi name and passw
 ## 1) Open the sketch you want to use
 
 - ESP32-S3 + TFT:
-  `/home/runner/work/ESP-Dispaly-Stream/ESP-Dispaly-Stream/ESP32S3_spi_2.4_TFT/TFT_experiment/TFT_experiment.ino`
+  `ESP32S3_spi_2.4_TFT/TFT_experiment/TFT_experiment.ino`
 - ESP8266 + OLED:
-  `/home/runner/work/ESP-Dispaly-Stream/ESP-Dispaly-Stream/ESP8266_i2c_0.96_Oled/OLED_experiment/OLED_experiment.ino`
+  `ESP8266_i2c_0.96_Oled/OLED_experiment/OLED_experiment.ino`
 
 ## 2) Update WiFi credentials
 
